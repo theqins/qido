@@ -1,5 +1,5 @@
 ---
-title: QIDO TECH
+title: QIDO TECH LLC.
 sections:
   - type: hero_section
     title: This Is A Big Hero Headline
