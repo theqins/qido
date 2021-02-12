@@ -5,10 +5,7 @@ sections:
     title: We are still building this website.
     content: |
       ## Sorry for inconvenience.
-    actions:
-      - label: Button
-        url: /pricing
-        style: primary
+    actions: []
     actions_position: bottom
     align: center
     padding_top: large
