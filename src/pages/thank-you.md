@@ -1,6 +1,6 @@
 ---
 title: Thank You
-excerpt: lorem-ipsum
+excerpt: Thank Yout
 sections: []
 template: advanced
 ---
