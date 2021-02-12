@@ -7,7 +7,7 @@ sections:
       #### Thank you for contacting us. We will get back in touch with you soon.
       Have a great day!
     actions:
-      - label: lorem-ipsum
+      - label: Back to Homepage
         url: lorem-ipsum
         style: link
         has_icon: false
