@@ -20,7 +20,7 @@
             {
                 "label": "Get Started",
                 "url": "/pricing",
-                "style": "primary"
+                "style": "link"
             }
         ],
         "has_anncmnt": false,
