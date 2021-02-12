@@ -3,7 +3,6 @@ title: Thank You
 excerpt: Thank You
 sections:
   - title: Thank You!
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
