@@ -16,9 +16,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    video_embed_html: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
     media_position: top
     media_width: fifty
     align: center
