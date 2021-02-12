@@ -3,17 +3,9 @@ title: Thank You
 excerpt: Thank You
 sections:
   - title: Thank You!
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      ##### Thank you for contacting us. We will get back in touch with you
+      soon. Have a great day!
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
