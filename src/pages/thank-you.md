@@ -4,8 +4,8 @@ excerpt: Thank You
 sections:
   - title: Thank You!
     content: >
-      ##### Thank you for contacting us. We will get back in touch with you
-      soon. Have a great day!
+      #### Thank you for contacting us. We will get back in touch with you soon.
+      Have a great day!
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
