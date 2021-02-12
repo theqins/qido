@@ -326,5 +326,5 @@ sections:
     padding_bottom: large
     background_color: secondary
 template: advanced
-excerpt: QiDo Technologies LLC.
+excerpt: QiDo Technologies LLC. Official Website
 ---
