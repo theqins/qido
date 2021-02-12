@@ -54,7 +54,8 @@
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
-        "anncmnt_id": "new-features"
+        "anncmnt_id": "new-features",
+        "logo": "images/03a4581d-1fcb-4911-bfd0-e24d0f9697d9_200x200.png"
     },
     "footer": {
         "logo_alt": "DIY logo",
