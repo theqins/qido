@@ -2,7 +2,7 @@
 title: QIDO TECH LLC.
 sections:
   - type: cta_section
-    title: We are still building this website
+    title: We are still building this website.
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
