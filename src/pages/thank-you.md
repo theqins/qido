@@ -1,6 +1,6 @@
 ---
 title: Thank You
-excerpt: Thank Yout
+excerpt: Thank Your
 sections: []
 template: advanced
 ---
