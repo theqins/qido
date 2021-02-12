@@ -8,7 +8,7 @@ sections:
       Have a great day!
     actions:
       - label: Back to Homepage
-        url: lorem-ipsum
+        url: /
         style: link
         has_icon: false
         icon: arrow-left
