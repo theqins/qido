@@ -1,5 +1,5 @@
 ---
-title: QIDO
+title: QIDO TECH
 sections:
   - type: hero_section
     title: This Is A Big Hero Headline
